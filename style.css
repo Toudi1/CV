@@ -1,0 +1,151 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f5f7fa;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+aside {
+  width: 370px;
+  background: #1e2939;
+}
+
+main {
+  padding: 102px 88px 102px 88px;
+  padding-top: 102px;
+}
+
+.cv-photo {
+  margin-top: 25px;
+}
+
+.header-secondary {
+  color: #ffffff;
+}
+
+.contact-links {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.list-secondary {
+  color: #fb6d3a;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.list-secondary-item {
+  color: #ffffff;
+}
+
+.contact-div {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+
+.tech-scils-bloc {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+
+.soft-scils-bloc {
+  margin-top: 44px;
+  margin-left: 40px;
+}
+
+.main-description {
+  width: 400px;
+}
+
+.list-primary {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding: 0;
+  list-style-position: inside;
+}
+
+.list-primary-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+
+.projects {
+  width: 485;
+  margin-bottom: 51px;
+}
+
+.header-primary {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12px;
+}
+
+.job-name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 11px;
+}
+
+.highlight {
+  color: #fb6d3a;
+}
+
+.job-date {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 8px;
+}
+
+.job-list {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  width: 525px;
+  color: #595959;
+  padding: 0;
+  list-style-position: inside;
+  margin-top: 8px;
+}
+
+.university-name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+  margin-bottom: 11px;
+}
+
+.study-field {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  margin-bottom: 12px;
+}
+
+.education {
+  margin-top: 43px;
+}
